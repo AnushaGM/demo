@@ -1,3 +1,4 @@
 # demo
-This is my first project
-anuthor - Anusha
+This is my first project.
+<br/>
+author - Anusha
